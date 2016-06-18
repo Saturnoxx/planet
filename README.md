@@ -1,2 +1,1 @@
-# planet
-This is the repository for the upcoming PC game Planet, and soon to mobile devices.
+Please read the following terms and agreements carefully. Here is the licensing information:
